@@ -1,0 +1,15 @@
+goto repostiory 
+-- git clone ssh 
+-- goto directory
+-- create a new file
+-- add it
+-- commit
+-- git push
+-- git pull
+
+https://learngitbranching.js.org/
+https://learngitbranching.js.org/?NODEDEMO 
+https://www.atlassian.com/git/tutorials
+https://git-scm.com/book/en/v2
+http://git-school.github.io/visualizing-git/
+ohshitgit.com
